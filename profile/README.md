@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://fka-bsys.hiroshima-u.ac.jp/">
-        <img src="gifs/icon.gif" width="100%" alt="生体システム論研究室" />
+        <img src="../gifs/icon.gif" width="100%" alt="生体システム論研究室" />
     </a>
 </p>
 
